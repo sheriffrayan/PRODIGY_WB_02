@@ -1,4 +1,4 @@
-# Prodigy InfoTech Intern_Web-Development
+# Stopwatch and Timer
 ## 📖 Task 2 - Stopwatch and Timer
 
 <br><b>Stopwatch project</b>, designed as a part of internship  Web Development and Designing </b>,is a dynamic website which can be used to perform operations like:
